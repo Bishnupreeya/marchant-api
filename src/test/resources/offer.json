@@ -1,0 +1,11 @@
+{
+        "offerId": 1,
+        "offerDescription": "Bank holiday",
+        "productName": "Service1",
+        "price": 10.99,
+        "currency": "GBP",
+        "offerStartDate": "2020-10-24T18:55:06Z",
+        "offerEndDate": "2020-10-26T18:55:06Z",
+        "offerExpired": false,
+        "offerCancel": false
+    }
